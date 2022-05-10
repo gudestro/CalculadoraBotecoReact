@@ -1,0 +1,26 @@
+D:\React\Calculadora de Buteco\Calculadora de Buteco\bin\Debug\net6.0\appsettings.Development.json
+D:\React\Calculadora de Buteco\Calculadora de Buteco\bin\Debug\net6.0\appsettings.json
+D:\React\Calculadora de Buteco\Calculadora de Buteco\bin\Debug\net6.0\Calculadora de Buteco.staticwebassets.runtime.json
+D:\React\Calculadora de Buteco\Calculadora de Buteco\bin\Debug\net6.0\Calculadora de Buteco.exe
+D:\React\Calculadora de Buteco\Calculadora de Buteco\bin\Debug\net6.0\Calculadora de Buteco.deps.json
+D:\React\Calculadora de Buteco\Calculadora de Buteco\bin\Debug\net6.0\Calculadora de Buteco.runtimeconfig.json
+D:\React\Calculadora de Buteco\Calculadora de Buteco\bin\Debug\net6.0\Calculadora de Buteco.dll
+D:\React\Calculadora de Buteco\Calculadora de Buteco\bin\Debug\net6.0\ref\Calculadora de Buteco.dll
+D:\React\Calculadora de Buteco\Calculadora de Buteco\bin\Debug\net6.0\Calculadora de Buteco.pdb
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\Calculadora de Buteco.csproj.AssemblyReference.cache
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\Calculadora de Buteco.GeneratedMSBuildEditorConfig.editorconfig
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\Calculadora de Buteco.AssemblyInfoInputs.cache
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\Calculadora de Buteco.AssemblyInfo.cs
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\Calculadora de Buteco.csproj.CoreCompileInputs.cache
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\Calculadora de Buteco.MvcApplicationPartsAssemblyInfo.cache
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\Calculadora de Buteco.RazorAssemblyInfo.cache
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\Calculadora de Buteco.RazorAssemblyInfo.cs
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\staticwebassets.build.json
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\staticwebassets.development.json
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\scopedcss\bundle\Calculadora de Buteco.styles.css
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\scopedcss\projectbundle\Calculadora de Buteco.bundle.scp.css
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\Calculadora de Buteco.dll
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\ref\Calculadora de Buteco.dll
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\Calculadora de Buteco.pdb
+D:\React\Calculadora de Buteco\Calculadora de Buteco\obj\Debug\net6.0\Calculadora de Buteco.genruntimeconfig.cache
